@@ -23,29 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.cesbio.cnrs.fr/summer-school-remote-sensing-observations-for-the-monitoring-of-water-and-carbon-cycles-over-eco-agro-systems/ 
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-07-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: CESBIO
+    organization_url: https://www.cesbio.cnrs.fr/
+    title: Remote sensing observations for the monitoring of water and carbon cycles over eco-agro-systems [Online Summer school]
     url: ''
-  - certificate_url: https://www.edx.org
+
+  - certificate_url: https://www.pucv.cl/uuaa/labgrs/cursos/introduccion-al-analisis-espacial-y-web-mapping-con-google-earth-engine
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2020-12-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: PUCV
+    organization_url: http://pucv.cl/
+    title: 'Spatial analysis and web-mapping introduction with google earth engine and R Shiny'
     url: ''
 
 design:

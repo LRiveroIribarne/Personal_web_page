@@ -1,49 +1,41 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: hhh
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MSc in Geo-information science (student)
+    institution: Wageningen University and Research
+    year: 2022
+  - course: BSc in Agricultural engineering
+    institution: Universidad de Chile
+    year: 2020
+email: "lucas.riveroiribarne@wur.nl"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geo Data Science
+- Ecology
+- Hidrology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: GIS Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Lucas-Rivero-Iribarne-2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LRiveroIribarne
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lucas-rivero-980bb815a/
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 superuser: true
-title: Nelson Bighetti
+title: Lucas Rivero Iribarne
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
