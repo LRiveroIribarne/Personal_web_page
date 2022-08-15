@@ -37,14 +37,21 @@ experience:
     
     * Writting R scripts to download remote sensing products at country scale (Evapotranspiration, soil moisture, biophysical variables)'
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research assistant
+    company: 
     company_url: ''
     company_logo: 
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: 
+    date_start: '2020-12-01'
+    date_end: '2021-10-31'
+    description: 'PCI CONICYT NSFC190018 - Improving forest water yield and productivity quantification at the catchment scale by mapping root depth and eco-physiological thresholds with remote
+sensing and water transfer modeling.
+
+    * Plan, coordinate and lead field campaigns to install rain gauges into four Chilean watersheds
+    
+    * Sensor calibration (rain gauges)
+    
+    * Writting R scripts to plot spatial and temporal data gathered from sensors'
     
   - title: Research assistant 
     company: Universidad de Chile

@@ -16,30 +16,34 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: ""
+  - description: Data management, time series and spatial modelling
     icon: r-project
-    icon_pack: fab
+    icon_pack: "fab"
     name: R
-  - description: 
+
+  - description: Supervised and unsupervised classification, biophysical products
     icon: satellite
-    icon_pack: fas
+    icon_pack: "fas"
     name: Remote sensing
-  - description:
+ 
+  - description: QGIS, ArcGIS, GRASS GIS
     icon: layer-group
-    icon_pack: fas
+    icon_pack: "fas"
     name: GIS
-  - icon: "languages"
+ 
+  - icon: "map-location-dot"
+    icon_pack: "fas"
+    name: "Web mapping"
+    description: "Google earth engine, RShiny"
+ 
+  - icon: "monitoring"
     icon_pack: "custom"
-    name: "Field"
-    description: "tesst text"
-  - icon: "languages"
-    icon_pack: "custom"
-    name: "Field"
-    description: "tesst text"
-  - icon: "languages"
-    icon_pack: "custom"
+    name: "Ecosystem in situ monitoring"
+    description: "Calibration and installation of sensors (rain gauges, soil moisture, sap flow) and surveying (biomass, soil samples, tree core samples)"
+ 
+  - icon: "language"
+    icon_pack: "fas"
     name: "Languages"
-    col: "blue"
     description: "Spanish (Native) - English (B2)" 
 
 

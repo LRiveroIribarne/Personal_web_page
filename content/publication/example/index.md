@@ -1,18 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Vegetation biomass is a globally important climate-relevant terrestrial carbon pool and also drives local hydrological systems via evapotranspiration. Vegetation biomass of individual vegetation types has been successfully estimated from active and passive remote sensing data. However, for many tasks, landscape-level biomass maps across several vegetation types are more suitable than biomass maps of individual vegetation types. For example, the validation of ecohydrological models and carbon budgeting typically requires spatially continuous biomass estimates, independent from vegetation type. Studies that derive biomass estimates across multiple vegetation or land-cover types to merge them into a single landscape-level biomass map are still scarce, and corresponding workflows must be developed. Here, we present a workflow to derive biomass estimates on landscape-level for a large watershed in central Chile. Our workflow has three steps, First, we combine field plot-based biomass estimates with spectral and structural information collected from Sentinel-2, TanDEM-X and airborne LiDAR data to map grassland, shrubland, native forests and pine plantation biomass using random forest regressions with an automatic feature selection. Second, we predict all models to the entire landscape. Third, we derive a land-cover map including the four considered vegetation types. We then use this land-cover map to assign the correct vegetation type-specific biomass estimate to each pixel according to one of the four considered vegetation types. Using a single repeatable workflow, we obtained biomass predictions comparable to earlier studies focusing on only one of the four vegetation types (Spearman correlation between 0.80 and 0.84; normalized-RMSE below 16 % for all vegetation types). For all woody vegetation types, height metrics were amongst the selected predictors, while for grasslands, only Sentinel-2 bands were selected. The land-cover was also mapped with high accuracy (OA = 83.1 %). The final landscape-level biomass map spatially agrees well with the known biomass distribution patterns in the watershed. Progressing from vegetation-type specific maps towards landscape-level biomass maps is an essential step towards integrating remote-sensing based biomass estimates into models for water and carbon management.
+
 author_notes:
-- Equal contribution
-- Equal contribution
+- 
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Fabian Ewald Fassnacht
+- Javiera Poblete-Olivares
+- Lucas Rivero Iribarne
+- Javier Lopatin
+- Andrés Ceballos
+- Mauricio Galleguillos
+# date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,24 +19,23 @@ image:
   preview_only: false
 projects:
 - example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Journal of Applied Earth Observation and Geoinformation*
+publication_short:
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-02-02T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using Sentinel-2 and canopy height models to derive a landscape-level biomass map covering multiple vegetation types
 tags: []
-title: An example conference paper
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Using Sentinel-2 and canopy height models to derive a landscape-level biomass map covering multiple vegetation types
+# url_code: ""
+# url_dataset: ""
+url_pdf: "https://www.researchgate.net/publication/344415275_Using_Sentinel-2_and_canopy_height_models_to_derive_a_landscape-level_biomass_map_covering_multiple_vegetation_types"
+# url_poster: ""
+# url_project: ""
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 ---
 
 {{% callout note %}}
