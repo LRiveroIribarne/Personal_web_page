@@ -6,25 +6,24 @@ author_notes:
 authors:
 - Fabian Ewald Fassnacht
 - Javiera Poblete-Olivares
-- Lucas Rivero Iribarne
+- Lucas Rivero-Iribarne
 - Javier Lopatin
 - Andrés Ceballos
 - Mauricio Galleguillos
-# date: "2013-07-01T00:00:00Z"
+date: "2021-02-02T00:00:00Z"
 doi: ""
-featured: true
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+featured: false
+image: 
+  caption: 'Diameter at breast height of a Hualo (_Nothofagus glauca_)'
   focal_point: ""
   preview_only: false
 projects:
-- example
 publication: In *International Journal of Applied Earth Observation and Geoinformation*
 publication_short:
 publication_types:
-- "1"
+- "2"
 publishDate: "2021-02-02T00:00:00Z"
-slides: example
+slides:
 summary: Using Sentinel-2 and canopy height models to derive a landscape-level biomass map covering multiple vegetation types
 tags: []
 title: Using Sentinel-2 and canopy height models to derive a landscape-level biomass map covering multiple vegetation types
@@ -38,12 +37,3 @@ url_pdf: "https://www.researchgate.net/publication/344415275_Using_Sentinel-2_an
 # url_video: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
