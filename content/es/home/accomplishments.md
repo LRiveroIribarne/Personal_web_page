@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Cursos'
 subtitle:
 
 # Date format
@@ -38,7 +38,7 @@ item:
     description: ''
     organization: PUCV
     organization_url: http://pucv.cl/
-    title: 'Spatial analysis and web-mapping introduction with google earth engine and R Shiny'
+    title: 'Introducción al análisis espacial y web-mapping con Google Earth Engine y R Shiny'
     url: ''
 
 design:
