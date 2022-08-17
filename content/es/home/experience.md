@@ -44,10 +44,10 @@ experience:
     location: 
     date_start: '2020-12-01'
     date_end: '2021-10-31'
-    description: 'PCI CONICYT NSFC190018 - Improving forest water yield and productivity quantification at the catchment scale by mapping root depth and eco-physiological thresholds with remote
-sensing and water transfer modeling.
+    description: 'PCI CONICYT NSFC190018 - Management of global change impacts on hydrological extremes by coupling remote sensing data and an interdisciplinary modelling approach
 
     * Planificación, coordinación y ejecución de campañas de terreno para instalar pluviómetros en cuatro cuencas de Chile
+    
     * Calibración de pluviómetros
     
     * Desarrollo de rutinas en R para visualizar datos espaciales y temporales recuperados desde sensores instalados en terreno'  
