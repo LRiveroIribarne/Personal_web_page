@@ -13,7 +13,7 @@ highlight_name: true
 interests:
 - Geo Data Science
 - Ecology
-- Hidrology
+- Hydrology
 organizations:
 role: GIS Data Analyst
 social:
