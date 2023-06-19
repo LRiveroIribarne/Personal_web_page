@@ -8,6 +8,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Interactive-fig
+    url: https://github.com/LRiveroIribarne/visualization-portfolio/tree/main/interactive
 - icon: google
   icon_pack: fab
   name: Colab-RUSLE
