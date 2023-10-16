@@ -20,7 +20,7 @@ url_video: ""
 ---
 
 
-The proper quantification of transpiration is a key challenge for soil and plant scientist but also a relevant information for farmers to forecast how the yield is coming or to plan fertilization or irrigation managements. It is also relevant for decision makers to understand the water balance at plot, catchment or even region or country level to develop measurements against water scarcity.
+TESTThe proper quantification of transpiration is a key challenge for soil and plant scientist but also a relevant information for farmers to forecast how the yield is coming or to plan fertilization or irrigation managements. It is also relevant for decision makers to understand the water balance at plot, catchment or even region or country level to develop measurements against water scarcity.
 
 The relationship between rainfall and evapotranspiration is not always direct because many factors affects the movement of the infiltrated water to the atmosphere such as the soil physical and chemical properties, the type of vegetation, phenological stage, leaf area index, the atmospheric conditions and the human practices, pruning for instance.
 
